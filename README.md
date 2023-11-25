@@ -52,7 +52,7 @@ QR_Decomposition(a)
 ```
 ## Output
 ```
-![output](QRdecomposition-2.png)
+![output](./QRdecomposition.png)
 ```
 
 ## Result
